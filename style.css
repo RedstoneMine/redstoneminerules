@@ -1,0 +1,14 @@
+body{
+    color: white;
+    background: linear-gradient(135deg,#0a0a0a 0%,#2b0000 35%,#5a0000 50%,#1a0000 70%,#000000 100%);
+    background-size: 300% 300%;
+    animation: bgMove 12s ease infinite;
+    text-align: center;
+    font-size: 30px;
+    font-weight:bold;
+    font-family: 'Pangolin', cursive;
+}
+h1{
+    font-size: 32px;
+    font-family: 'Marck Script', cursive;
+}
